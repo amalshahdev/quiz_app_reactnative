@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the largest planet in our Solar System?",
+    "options": { "A": "Earth", "B": "Jupiter", "C": "Mars", "D": "Saturn" },
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Who wrote Romeo and Juliet?",
+    "options": { "A": "Charles Dickens", "B": "William Shakespeare", "C": "Jane Austen" },
+    "answer": "B"
+  }
+]
